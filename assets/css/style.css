@@ -661,6 +661,12 @@ small {
 section#about p {
 	text-align: justify;
 	text-indent: 50px;
+  font-size: 0.85em;
+}
+
+section#about ul {
+	text-align: justify;
+  font-size: 0.85em;
 }
 
 @media (max-width: 600px) {
